@@ -7,5 +7,9 @@ Welcome to my Chess project written with Python for my fundamentals of Python co
 Two users will take turns controlling their piece colors:
 
 1. First user will choose a piece by their coordinates such as, a2 or b2, etc.
-    - Rules of regular chess continues to apply with pieces of this game
+    - Rules of regular chess continues to apply with pieces for this game
 2. Next the same user will input the desired location again using coordinates.
+3. King cannot be checked by the opponent
+4. First to reach row 8 with their king wins!
+
+Have fun!
